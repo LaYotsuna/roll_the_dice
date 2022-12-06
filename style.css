@@ -23,7 +23,6 @@ body {
   position: relative;
 }
 
-/* LAYOUT */
 main {
   margin-top: 50px;
   position: relative;
@@ -70,7 +69,6 @@ span {
   transition: all 0.75s;
 }
 
-/* ELEMENTS */
 .name {
   position: relative;
   font-size: 4rem;
@@ -124,7 +122,6 @@ span {
   font-size: 3.5rem;
 }
 
-/* ABSOLUTE POSITIONED ELEMENTS */
 .btn {
   position: absolute;
   left: 50%;
@@ -222,7 +219,6 @@ span {
   text-align: justify;
 }
 
-/* CLASSES TO MAKE RULES BUTTON WORK */
 .hidden {
   display: none;
 }
